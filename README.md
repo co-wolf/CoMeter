@@ -26,6 +26,6 @@ The GUI is written in PyQt and implements the following measurement instruments 
 - Function generator (FGEN)
 - Digital storage oscilloscope (DSO)
 
-For the desktop side of the communication the Python VISA library is used. VISA is an abstraction layer for measurement devices that is implemented by most modern instruments. In combination with the SCPI commands this means that the measurement GUI can also be used with commercial DMMs, FGENs or DSOs. In the future it is planed to extend the software to be able to use a combination of different devices to accomplish complex, hirachycal measurement tasks.
+For the desktop side of the communication the Python VISA library is used. VISA is an abstraction layer for measurement devices that is implemented by most modern instruments. In combination with the SCPI commands this means that the measurement GUI can also be used with commercial DMMs, FGENs or DSOs. In the future it is planed to extend the software to be able to use a combination of different devices to accomplish complex, hierarchical measurement tasks.
 
-The project has been funded by the Innovationsfond Lehre of Coburg University of Applied Sciences.
+The project has been funded by the "Bundesministerium für Bildung und Forschung" via the "Innovationsfonds Lehre" of Coburg University of Applied Sciences.
