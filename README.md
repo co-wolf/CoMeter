@@ -1,4 +1,4 @@
-# CoMeter
+# **CoMe**_ter_
 
 **CoMe**_ter_ is an Arduino based measurement system that has been developed in the scope of a **Co**mputer-based **Me**asurement lab at Coburg University of Applied Science. The project was inspired by NI myDAQ, but is in no way affiliated with National Instruments. The unique features of the system are that it is cheap and its software as well as hardware is open, can be studied, modified and extended. It is intended to be used in teaching, student projects and research, but it can also be built by any interested person.
 
